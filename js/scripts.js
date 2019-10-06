@@ -109,6 +109,7 @@ function getLikes() {
 }
 
 clear_likes_btn.addEventListener('click', () => {
+	container.innerHTML = "";
 	localStorage.clear();
 })
 
