@@ -88,7 +88,6 @@ function likeRecipe() {
 
 	var name = 'bm'+localStorage.getItem('count');
 	localStorage.setItem(name, JSON.stringify(curr_recipe));
-	console.log(localStorage.getItem(name));
 }
 
 function getLikes() {
