@@ -6,4 +6,4 @@ Link: https://vyhuynh8.github.io/Quick-Meal-Generator/
 
 Description: This is an web application that allows you to generate a quick recipe randomly. This is for when you're not sure what to make for dinner or you're just in the mood to try something new. There's a "LIKE" feature that allows you to save different recipes in case you want to come back to it later.
 
-Tools used: Javascript, HTML/CSS, Skeleton
+Tools used: Javascript, HTML/CSS, Skeleton, themealdb API
